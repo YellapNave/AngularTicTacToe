@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myangularapp-17eff": {
+      "hosting": {
+        "myapp": [
+          "myangularapp-17eff"
+        ]
+      }
+    }
+  }
+}
